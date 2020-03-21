@@ -1,7 +1,7 @@
 # log_to_cloudwatch
 Insert your logs into Amazon CloudWatch using Python
 
-```
+```Python
 #!/usr/local/bin/python3
 
 import boto3
